@@ -5,12 +5,11 @@
 */
 
 html {
-    font-style: 16px;
-    line-height: 1.5;
-    font-family: "Helvetica neue", Arial, Helvetica, sans-serif;
-    color: #111;
-    padding: 24px 24px 0;
-
+  font-style: 16px;
+  line-height: 1.5;
+  font-family: "Helvetica neue", Arial, Helvetica, sans-serif;
+  color: #111;
+  padding: 24px 24px 0;
 }
 
 /*
@@ -20,19 +19,11 @@ html {
  * Customize the background color to match your design.
  */
 
-
-
 ::selection {
-    background-color: #44c8f5;
-    
-
+  background-color: #44c8f5;
+  color: white;
 }
 
-
-
-
-
 body {
-background-color: khaki;
-
+  background-color: khaki;
 }
